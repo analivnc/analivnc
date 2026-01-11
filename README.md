@@ -20,9 +20,9 @@ Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automaçã
 
 
 
-🦄 **Linguagens:** JavaScript, Python, C, Java.  
+✨ **Linguagens:** JavaScript, Python, C, Java.  
 
-💼 **Ferramentas:** Git, GitHub, Visual Studio Code, Canva, MySQL, Eclipse  
+✨ **Ferramentas:** Git, GitHub, Visual Studio Code, Canva, MySQL, Eclipse  
 
 💌 **Vamos conversar?** Você pode me encontrar aqui ⤵️
 
