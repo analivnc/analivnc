@@ -1,39 +1,26 @@
 <h1 style="color:#f523a3;">Olá, eu sou a Ana Lívia 🍒</h1>
 
-<img src="https://raw.githubusercontent.com/analivnc/analivnc/main/A_2D_digital_illustration_of_a_pink-themed_worksta.png"
-     alt="ilustração de um notebook rosa"
-     width="600px"
-     align="right">
+<img 
+  src="https://raw.githubusercontent.com/analivnc/analivnc/main/A_2D_digital_illustration_of_a_pink-themed_worksta.png"
+  alt="Ilustração de um notebook rosa"
+  width="500"
+  align="right"
+/>
 
-- 18 anos  
-- Joinville – SC  
-
-Sou **aprendiz na Bosch**, onde faço parte do programa  
-**Digital Talent Academy**, atuando na área de tecnologia.
+Tenho 18 anos, moro em Joinville – SC e sou aprendiz na **Bosch**, onde faço parte do programa **Digital Talent Academy**, atuando na área de tecnologia e aprendendo na prática como é o dia a dia profissional.
 
 ---
 
-## 💻 O que faço atualmente
-
-- Atividades voltadas à **programação**
-- Desenvolvimento de **trabalho em equipe**
-- Contato com **desafios reais da área de tecnologia**
+Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automação, sensores e comunicação entre dispositivos, além de desenvolver minha base em programação e lógica.
 
 ---
 
-## 🌐 Estudos
-
-📚 **Internet das Coisas (IoT)** – SENAI  
-Tenho estudado:
-- Automação
-- Sensores
-- Comunicação entre dispositivos
+Trabalho com linguagens como **JavaScript, Python, C e Java**, buscando evoluir aos poucos, consolidar meus conhecimentos e construir uma carreira na área de tecnologia.
 
 ---
 
 ✨ *Em aprendizado contínuo*
 
----
 
 
 🦄 **Linguagens:** JavaScript, Python, C, Java.  
