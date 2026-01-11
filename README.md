@@ -13,9 +13,6 @@ Tenho 18 anos, moro em Joinville – SC e sou aprendiz na **Bosch**, onde faço 
 
 Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automação, sensores e comunicação entre dispositivos, além de desenvolver minha base em programação e lógica.
 
----
-
-Trabalho com linguagens como **JavaScript, Python, C e Java**, buscando evoluir aos poucos, consolidar meus conhecimentos e construir uma carreira na área de tecnologia.
 
 ---
 
