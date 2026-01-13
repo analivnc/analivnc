@@ -39,19 +39,9 @@ Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automaçã
 ✨ Em aprendizado contínuo
 
 
-
-
-
 💌 **Vamos conversar?** Você pode me encontrar aqui ⤵️
 
-Aprendizado: <p align="left">
-  <a href="mailto:ana_ln_correia@estudante.sesisenai.org.br">
-    <img src="https://img.shields.io/badge/-Gmail-f523a3?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ana-livia-neves-correia">
-    <img src="https://img.shields.io/badge/-LinkedIn-f523a3?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/analivnc">
-    <img src="https://img.shields.io/badge/-Instagram-f523a3?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/-Gmail-f523a3?style=flat-square&logo=gmail&logoColor=white)](mailto:ana_ln_correia@estudante.sesisenai.org.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f523a3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-livia-neves-correia)
+[![Instagram](https://img.shields.io/badge/-Instagram-f523a3?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/analivnc)
+
