@@ -16,7 +16,6 @@ Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automaçã
 
 ---
 
-✨ *Em aprendizado contínuo*
 
 
 
@@ -36,6 +35,9 @@ Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automaçã
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
 </p>
+
+✨ Em aprendizado contínuo
+
 
 
 
