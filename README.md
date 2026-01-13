@@ -20,13 +20,29 @@ Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automaçã
 
 
 
-✨ **Linguagens:** JavaScript, Python, C, Java.  
+✨*Aprendizado:*<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
 
-✨ **Ferramentas:** Git, GitHub, Visual Studio Code, Canva, MySQL, Eclipse  
+✨ **Ferramentas:**<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
+</p>
+
+
+
 
 💌 **Vamos conversar?** Você pode me encontrar aqui ⤵️
 
-<p align="left">
+Aprendizado: <p align="left">
   <a href="mailto:ana_ln_correia@estudante.sesisenai.org.br">
     <img src="https://img.shields.io/badge/-Gmail-f523a3?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
