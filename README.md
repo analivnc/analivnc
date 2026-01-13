@@ -30,7 +30,7 @@ Atualmente estudo **Internet das Coisas (IoT)** no SENAI, com foco em automaçã
   <a href="mailto:ana_ln_correia@estudante.sesisenai.org.br">
     <img src="https://img.shields.io/badge/-Gmail-f523a3?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/analivnc">
+  <a href="https://www.linkedin.com/in/ana-livia-neves-correia">
     <img src="https://img.shields.io/badge/-LinkedIn-f523a3?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/analivnc">
