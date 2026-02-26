@@ -7,7 +7,7 @@
   align="right"
 />
 
-Tenho 18 anos, moro em Joinville – SC e sou aprendiz na **Bosch**, onde faço parte do programa **Digital Talent Academy**, atuando na área de tecnologia e aprendendo na prática como é o dia a dia profissional.
+Tenho 18 anos, moro em Joinville – SC e sou aprendiz na **Bosch**, onde faço parte do programa **Digital Talent Academy**, atuando na área de tecnologia e aprendendo na prática como é o dia a dia profissional. Estou cursando Engenharia de software na Univille
 
 ---
 
